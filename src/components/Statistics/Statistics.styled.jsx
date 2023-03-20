@@ -21,4 +21,5 @@ display: flex;
 align-items: center;
 justify-content: center;
 flex-direction: column;
-width: 640px;`
+width: 640px;
+margin-left: 30px;`
