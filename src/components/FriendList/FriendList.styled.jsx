@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from '@emotion/styled';
 export const FriendData = styled.ul`
   display: flex;
   flex-direction: column;
