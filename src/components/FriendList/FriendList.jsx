@@ -11,7 +11,7 @@ export const FriendList = ({ friends }) => {
               style={{
                 backgroundColor: isOnline ? 'green' : 'red',
               }}
-            />
+            ></FriendStatus>
             <img src={avatar} alt="User avatar" width="48" />
             <p>{name}</p>
           </FriendItem>
